@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu_Logo.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Menu_Ready.unity
+    guid: 3208c9ab1311346e9a8aeeca63240beb
+  - enabled: 1
+    path: Assets/Scenes/Menu_Title.unity
+    guid: 763d842e8278544a5900a75d2046d011
+  - enabled: 1
+    path: Assets/Scenes/Ranking.unity
+    guid: 990d45d5783d54162aecb5e4f3b5a719
+  - enabled: 1
+    path: Assets/Scenes/Help.unity
+    guid: 24173a584168e4b688369f0bd041b6db
+  - enabled: 1
+    path: Assets/Scenes/Select_Doub.unity
+    guid: 1710a8c1f0ead496c90702c80b08c506
+  - enabled: 1
+    path: Assets/Scenes/Main_Doub.unity
+    guid: cbd6c3b45bf6344a99af0293785c5432
+  - enabled: 1
+    path: Assets/Scenes/Main_Multi.unity
+    guid: 9877eb31888b94d2183bb9ceeb2cedf1
+  - enabled: 1
+    path: Assets/Scenes/Select_single.unity
+    guid: c8bc10e54d9a049239dcd8c9f9f33250
+  - enabled: 1
+    path: Assets/Scenes/Main_Single.unity
+    guid: 2b61f82ef63df419cbfd95397198c247
+  - enabled: 1
+    path: Assets/Scenes/Main_Infinite.unity
+    guid: 65ca82f0db8bf4dae8280b74173edc34
+  - enabled: 1
+    path: Assets/Scenes/Select_Infinite.unity
+    guid: 08e7267f8ce2941d8b4e180f443ec63e
+  m_configObjects: {}

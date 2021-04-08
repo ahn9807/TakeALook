@@ -1,0 +1,54 @@
+﻿<Properties StartupConfiguration="{2E68AE49-0BF4-EEB2-491B-BD6AA2AE27E8}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/AI/AIPlayer.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Menu/MenuLogo.cs" Line="43" Column="6" />
+      <File FileName="Assets/Scripts/Network/GameNetwork.cs" Line="34" Column="35" />
+      <File FileName="Assets/Scripts/Network/NetworkController.cs" Line="101" Column="1" />
+      <File FileName="Assets/Scripts/Network/InputManager.cs" Line="42" Column="1" />
+      <File FileName="Assets/Scripts/Network/InputSerializer.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Network/NetConfig.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Choose/AISelect.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/AI/AIPlayer.cs" Line="72" Column="6" />
+      <File FileName="Assets/Scripts/Network/TrasportUDP.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Network/PacketQueue.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Network/Serializer.cs" Line="25" Column="24" />
+      <File FileName="Assets/Scripts/Network/PlayerInfo.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Choose/ChooseButtonControl.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Choose/ChooseObject_Button.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Choose/ChooseSceneController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Choose/HUD_Choose_Controller.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Choose/SelectSceneSound.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Main/BallController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Main/BombSpawner.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Main/CastleController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Main/CloudController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Main/HUDScoreController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Main/InitAIScene.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Main/MainSound.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Main/PlayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Main/ResultButton.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Main/ResultController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Main/WinController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Menu/MenuObjectButton.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Menu/MenuTitle.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Menu/ReadyScene.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Menu/SoundTempScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Setting/RankingScene.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Setting/SettingSceneManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Utility/GameController.cs" Line="97" Column="26" />
+      <File FileName="Assets/Scripts/Utility/ReturnButton.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Utility/SaveData.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Utility/SceneFade.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Utility/SoundController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Utility/SoundManager.cs" Line="20" Column="42" />
+      <File FileName="Assets/Scripts/Utility/DontDestroy.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
