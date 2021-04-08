@@ -6,7 +6,7 @@
 All the memory...
 
 # Showcases
-![](https://github.com/ahn9807/ImageBase/blob/main/TakeALook/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202018-11-14%20%EC%98%A4%ED%9B%84%206.04.09.png?raw=true)
+![](https://raw.githubusercontent.com/ahn9807/ImageBase/main/TakeALook/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202018-11-14%20%EC%98%A4%ED%9B%84%206.04.09.png?token=AINBGEWMFTKKFC4XWGALR63AN3JP4)
 
 ![](https://raw.githubusercontent.com/ahn9807/ImageBase/main/TakeALook/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202018-11-14%20%EC%98%A4%ED%9B%84%206.04.17.png?token=AINBGEXPFGVBNTGD7Q3G3Z3AN3I6S)
 
