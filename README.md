@@ -1,7 +1,7 @@
 # TakeALook
 
 ## 2018 GIST 무한도전 (Muhadojeon) project
-## Kim Heejun, Ahn Junho, Oh Jungseock, Cho KyungChan
+## Kim Heejun, Ahn Junho, Oh Jungseok, Cho Kyungchan
 
 All the memory...
 
